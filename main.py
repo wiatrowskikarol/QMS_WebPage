@@ -8,9 +8,6 @@ table_header = st.container()
 with header:
     st.subheader("Welcome to Core Quality Concepts page :wave:")
     st.title("Here you can find useful materials regarding quality related topics")
-    # st.write("All topics as a single paper")
-    # st.write("[Go to >](https://lkqeurope.sharepoint.com/:w:/r/sites/LKQE-QualityManagementTeamComponents/"
-             # "_layouts/15/Doc.aspx?sourcedoc=%7B86C3C686-1DED-4C41-9C76-6FA3D2312E54%7D&file=Introduction%20to%20Quality%20-%20Guidebook.docx&action=default&mobileredirect=true)")
 
 with table_header:
     st.write("---")
